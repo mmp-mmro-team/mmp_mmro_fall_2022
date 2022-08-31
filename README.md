@@ -12,7 +12,7 @@
 
 * Текущие связанные курсы
     * [ЗАМЕНИТЬ НА ПРАК 2022 ОСЕНЬ](https://github.com/mmp-practicum-team/mmp_practicum_fall_2021)
-    * [ПОЛУЧИТЬ ОТ АНИ ССЫЛКУ НА ГИТ ПО ОБЩЕМУ МЛ](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
+    * [Общий курс по МЛ 21/22](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
 
 * Материалы прошлых лет:
   * [Материалы древних времен](https://github.com/esokolov/ml-course-msu)
