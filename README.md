@@ -11,13 +11,14 @@
 :white_check_mark: **Полезные ссылки:**
 
 * Текущие связанные курсы
-    * [ЗАМЕНИТЬ НА ПРАК 2022 ОСЕНЬ](https://github.com/mmp-practicum-team/mmp_practicum_fall_2021)
-    * [Общий курс по МЛ 21/22](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
+    * [COMING SOON](https://github.com/mmp-practicum-team/mmp_practicum_fall_2022)
+    * [COMING SOON](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)
 
 * Материалы прошлых лет:
   * [Материалы древних времен](https://github.com/esokolov/ml-course-msu)
   * [Вышкинский аналог курса](https://github.com/esokolov/ml-course-hse)
   * [Курс лекций по ММРО 20/21 (в те времена он читался эксклюзивно для ММП)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%92.%D0%92.%D0%9A%D0%B8%D1%82%D0%BE%D0%B2%29)
+  * [Общий курс по МЛ 21/22](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22)
   * [Курс ММРО 19/20, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019)
   * [Курс ММРО 20/21, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020)
   * [Курс ММРО 21/22, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021)
