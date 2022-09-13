@@ -51,7 +51,7 @@
 
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
-| 8 сентября  | Семинар 1 | Работа с табличными данными. Pandas. Разведочный анализ данных | https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/Seminar1/sem_pandas.ipynb | https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/Homework_practice_1/numpy_pandas_matplotlib_2022.ipynb   |
+| 8 сентября  | Семинар 1 | Работа с табличными данными. Pandas. Разведочный анализ данных | [Ноутбук с семинара]([https://github.com/mmp-practicum-team/mmp_practicum_fall_2022](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/Seminar1/sem_pandas.ipynb)) | [Легкая домашка на пандас](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/Homework_practice_1/numpy_pandas_matplotlib_2022.ipynb)   |
 | 15 сентября  | Семинар 2 | coming soon |  |  ¯\\\_(ツ)\_/¯ |
 | 22 сентября  | Семинар 3 | coming soon |  |  ¯\\\_(ツ)\_/¯ |
 | 29 сентября  | Семинар 4 | coming soon |  | ¯\\\_(ツ)\_/¯ |
