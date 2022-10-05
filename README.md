@@ -52,9 +52,9 @@
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
 | 8 сентября  | Семинар 1 | Работа с табличными данными. Pandas. Разведочный анализ данных | [Ноутбук с семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/Seminar1/sem_pandas.ipynb) | [Легкая домашка на пандас](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/Homework_practice_1/numpy_pandas_matplotlib_2022.ipynb)   |
-| 15 сентября  | Семинар 2 | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture20-knn.pdf |  |  ¯\\\_(ツ)\_/¯ |
-| 22 сентября  | Семинар 3 | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem19-knn.pdf  |  |  ¯\\\_(ツ)\_/¯ |
-| 29 сентября  | Семинар 4 | https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb |  | ¯\\\_(ツ)\_/¯ |
+| 15 сентября  | Семинар 2 | Быстрый поиск ближайших соседей | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture20-knn.pdf |  ¯\\\_(ツ)\_/¯ |
+| 22 сентября  | Семинар 3 | Особенности knn и разновидности метрик |  https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem19-knn.pdf   |  ¯\\\_(ツ)\_/¯ |
+| 29 сентября  | Семинар 4 | sklearn и особенности линейной регрессии | https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb | ¯\\\_(ツ)\_/¯ |
 | 6 октября | Семинар 5 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 | 13 октября | Семинар 6 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 | 20 октября | Семинар 7 | coming soon |  | ¯\\\_(ツ)\_/¯  |
