@@ -55,9 +55,9 @@
 | 15 сентября  | Семинар 2 | Быстрый поиск ближайших соседей | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture20-knn.pdf |  ¯\\\_(ツ)\_/¯ |
 | 22 сентября  | Семинар 3 | Особенности knn и разновидности метрик |  https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem19-knn.pdf   |  ¯\\\_(ツ)\_/¯ |
 | 29 сентября  | Семинар 4 | sklearn и особенности линейной регрессии | https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb | ¯\\\_(ツ)\_/¯ |
-| 6 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/master/seminars/sem05_vect_matrix_diff.pdf) | [Домашка на линейную регрессию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/homework-practice-02-linregr.ipynb)  |
+| 6 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/sem05_vect_matrix_diff.pdf) | [Домашка на линейную регрессию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/homework-practice-02-linregr.ipynb)  |
 | 13 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала, калибровка вероятностей | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | ¯\\\_(ツ)\_/¯ |
-| 20 октября | Семинар 7 | Теорема Куна-Таккера и двойственные задачи | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem13-kkt.pdf | ¯\\\_(ツ)\_/¯  |
+| 20 октября | Семинар 7 | Теорема Куна-Таккера и двойственные задачи | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem13-kkt.pdf | [Хардкорная домашка на дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-theory/matrix_differentiation_mmro.pdf)   |
 | 27 октября | Семинар 8 | coming soon |  |  ¯\\\_(ツ)\_/¯ | 
 | 3 ноября | Семинар 9 | coming soon |   | ¯\\\_(ツ)\_/¯ |
 | 10 ноября | Семинар 10 | coming soon |  | ¯\\\_(ツ)\_/¯ |
