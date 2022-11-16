@@ -58,9 +58,9 @@
 | 6 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/sem05_vect_matrix_diff.pdf) | [Домашка на линейную регрессию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/homework-practice-02-linregr.ipynb)  |
 | 13 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала, калибровка вероятностей | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | ¯\\\_(ツ)\_/¯ |
 | 20 октября | Семинар 7 | Теорема Куна-Таккера и двойственные задачи | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem13-kkt.pdf | [Хардкорная домашка на дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-theory/matrix_differentiation_mmro.pdf)   |
-| 27 октября | Семинар 8 | coming soon |  |  ¯\\\_(ツ)\_/¯ | 
-| 3 ноября | Семинар 9 | coming soon |   | ¯\\\_(ツ)\_/¯ |
-| 10 ноября | Семинар 10 | coming soon |  | ¯\\\_(ツ)\_/¯ |
+| 27 октября | Семинар 8 | Ядровые обобщения методов, задачи на ядра | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem14-kernels.pdf |  ¯\\\_(ツ)\_/¯ | 
+| 3 ноября | Семинар 9 | Метрики качества классификации, задачи на площади под кривыми |  https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem05-linclass-metrics.pdf  | [Домашка на линейную классификацию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/hw_practice_3.ipynb)  |
+| 10 ноября | Семинар 10 | Разложение ошибки на смещение и разброс | https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf  | ¯\\\_(ツ)\_/¯ |
 | 17 ноября | Семинар 11 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 | 24 ноября | Семинар 12 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 | 1 декабря | Семинар 13 | coming soon |  | ¯\\\_(ツ)\_/¯ |
