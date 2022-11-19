@@ -61,8 +61,7 @@
 | 27 октября | Семинар 8 | Ядровые обобщения методов, задачи на ядра | https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem14-kernels.pdf |  ¯\\\_(ツ)\_/¯ | 
 | 3 ноября | Семинар 9 | Метрики качества классификации, задачи на площади под кривыми |  https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem05-linclass-metrics.pdf  | [Домашка на линейную классификацию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/homework-practice/hw_practice_3.ipynb)  |
 | 10 ноября | Семинар 10 | Разложение ошибки на смещение и разброс | https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf  | ¯\\\_(ツ)\_/¯ |
-| 17 ноября | Семинар 11 | Вывод критериев информативности для деревьев, разглядывание картинок про деревья | [ссылка 1](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf) [ссылка 2](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb)
- | ¯\\\_(ツ)\_/¯ |
+| 17 ноября | Семинар 11 | Вывод критериев информативности для деревьев, разглядывание картинок про деревья | [ссылка 1](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf) [ссылка 2](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 24 ноября | Семинар 12 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 | 1 декабря | Семинар 13 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 
