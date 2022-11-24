@@ -64,7 +64,7 @@
 | 17 ноября | Семинар 11 | Вывод критериев информативности для деревьев, разглядывание картинок про деревья | [ссылка 1](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf) [ссылка 2](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 24 ноября | Семинар 12 | Градиентный бустинг | https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/lecture-notes/lecture10-ensembles.pdf | ¯\\\_(ツ)\_/¯ |
 | 1 декабря | Семинар 13 | coming soon |  | ¯\\\_(ツ)\_/¯ |
-
-
+| 8 декабря | Семинар 14 | coming soon |  | ¯\\\_(ツ)\_/¯ |
+| 15 декабря | Семинар 15 | coming soon |  | ¯\\\_(ツ)\_/¯ |
 
    
